@@ -1,0 +1,3 @@
+{
+  "extends": ["bld-tslint-config-standard"]
+}
